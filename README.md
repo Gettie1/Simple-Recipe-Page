@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Gettie1/Simple-Recipe-Page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gettie1.github.io/Simple-Recipe-Page/)
 
 ## My process
 
@@ -44,8 +44,6 @@ Throughout the challenge I lernt how to use different html tags and css styles I
 Going forward I want to to focus more on styling and creating responsive websites.
 
 ## Author
-
-- Website - [Getrude Cheptoo ](https://www.your-site.com)
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Getrude Cheptoo ](https://www.frontendmentor.io/profile/Gettie1)
 - LinkedIn - [Getrude Cheptoo ](https://www.https://www.linkedin.com/in/getrude-cheptoo-8859952b0?)
 
